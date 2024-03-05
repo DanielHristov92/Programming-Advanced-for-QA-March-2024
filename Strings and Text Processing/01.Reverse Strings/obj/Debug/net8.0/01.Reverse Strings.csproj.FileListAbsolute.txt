@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\bin\Debug\net8.0\01.Reverse Strings.exe
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\bin\Debug\net8.0\01.Reverse Strings.deps.json
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\bin\Debug\net8.0\01.Reverse Strings.runtimeconfig.json
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\bin\Debug\net8.0\01.Reverse Strings.dll
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\bin\Debug\net8.0\01.Reverse Strings.pdb
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\01.Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\01.Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\01.Reverse Strings.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\01.Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\01.Reverse Strings.dll
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\refint\01.Reverse Strings.dll
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\01.Reverse Strings.pdb
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\01.Reverse Strings.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Strings and Text Processing\01.Reverse Strings\obj\Debug\net8.0\ref\01.Reverse Strings.dll
