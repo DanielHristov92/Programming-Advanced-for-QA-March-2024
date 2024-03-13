@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\bin\Debug\net8.0\05.Student Academy.exe
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\bin\Debug\net8.0\05.Student Academy.deps.json
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\bin\Debug\net8.0\05.Student Academy.runtimeconfig.json
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\bin\Debug\net8.0\05.Student Academy.dll
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\bin\Debug\net8.0\05.Student Academy.pdb
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\05.Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\05.Student Academy.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\05.Student Academy.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\05.Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\05.Student Academy.dll
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\refint\05.Student Academy.dll
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\05.Student Academy.pdb
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\05.Student Academy.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\05.Student Academy\obj\Debug\net8.0\ref\05.Student Academy.dll
