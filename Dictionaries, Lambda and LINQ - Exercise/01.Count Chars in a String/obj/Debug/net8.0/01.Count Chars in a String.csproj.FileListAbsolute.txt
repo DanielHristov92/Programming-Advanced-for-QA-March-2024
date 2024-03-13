@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\bin\Debug\net8.0\01.Count Chars in a String.exe
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\bin\Debug\net8.0\01.Count Chars in a String.deps.json
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\bin\Debug\net8.0\01.Count Chars in a String.runtimeconfig.json
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\bin\Debug\net8.0\01.Count Chars in a String.dll
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\bin\Debug\net8.0\01.Count Chars in a String.pdb
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\01.Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\01.Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\01.Count Chars in a String.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\01.Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\01.Count Chars in a String.dll
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\refint\01.Count Chars in a String.dll
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\01.Count Chars in a String.pdb
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\01.Count Chars in a String.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Dictionaries, Lambda and LINQ - Exercise\01.Count Chars in a String\obj\Debug\net8.0\ref\01.Count Chars in a String.dll
