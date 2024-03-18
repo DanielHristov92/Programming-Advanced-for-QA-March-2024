@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\bin\Debug\net8.0\04.Vehicle Catalogue.exe
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\bin\Debug\net8.0\04.Vehicle Catalogue.deps.json
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\bin\Debug\net8.0\04.Vehicle Catalogue.runtimeconfig.json
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\bin\Debug\net8.0\04.Vehicle Catalogue.dll
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\bin\Debug\net8.0\04.Vehicle Catalogue.pdb
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\04.Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\04.Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\04.Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\04.Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\04.Vehicle Catalogue.dll
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\refint\04.Vehicle Catalogue.dll
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\04.Vehicle Catalogue.pdb
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\04.Vehicle Catalogue.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Objects and Classes\04.Vehicle Catalogue\obj\Debug\net8.0\ref\04.Vehicle Catalogue.dll

@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\bin\Debug\net8.0\03.Store Boxes.exe
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\bin\Debug\net8.0\03.Store Boxes.deps.json
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\bin\Debug\net8.0\03.Store Boxes.runtimeconfig.json
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\bin\Debug\net8.0\03.Store Boxes.dll
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\bin\Debug\net8.0\03.Store Boxes.pdb
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\03.Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\03.Store Boxes.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\03.Store Boxes.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\03.Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\03.Store Boxes.dll
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\refint\03.Store Boxes.dll
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\03.Store Boxes.pdb
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\03.Store Boxes.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Objects and Classes\03.Store Boxes\obj\Debug\net8.0\ref\03.Store Boxes.dll
