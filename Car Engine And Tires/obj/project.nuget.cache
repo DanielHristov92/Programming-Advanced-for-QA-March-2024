@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NkaaX8D2HeyYLuQcVbQR2j+0upXwvZEJIDvAyCrp+WcSQKxReH7EGHfhpfrr6NtpuQ5aFX3oBno3jZSWpzWwlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hrist\\source\\repos\\Definning Classes\\01.Car\\01.Car.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
