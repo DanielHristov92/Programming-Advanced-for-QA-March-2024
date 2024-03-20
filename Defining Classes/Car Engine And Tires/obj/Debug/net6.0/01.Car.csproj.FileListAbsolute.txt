@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Definning Classes\01.Car\bin\Debug\net6.0\01.Car.exe
+C:\Users\hrist\source\repos\Definning Classes\01.Car\bin\Debug\net6.0\01.Car.deps.json
+C:\Users\hrist\source\repos\Definning Classes\01.Car\bin\Debug\net6.0\01.Car.runtimeconfig.json
+C:\Users\hrist\source\repos\Definning Classes\01.Car\bin\Debug\net6.0\01.Car.dll
+C:\Users\hrist\source\repos\Definning Classes\01.Car\bin\Debug\net6.0\01.Car.pdb
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\01.Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\01.Car.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\01.Car.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\01.Car.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\01.Car.dll
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\refint\01.Car.dll
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\01.Car.pdb
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\01.Car.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Definning Classes\01.Car\obj\Debug\net6.0\ref\01.Car.dll
